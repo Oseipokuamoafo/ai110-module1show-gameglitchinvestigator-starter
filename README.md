@@ -39,8 +39,11 @@ Refactored core game logic into logic_utils.py (pure functions for checking gues
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- [
 
+https://github.com/user-attachments/assets/4c6d3674-9879-4db7-909f-48e731cf068e
+
+ ] [Insert a screenshot of your fixed, winning game here]
 ## 🚀 Stretch Features
 
 - [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
